@@ -1,13 +1,14 @@
 body{
-    background-color: blueviolet;
+    background-color:black;
 }
 
 h1{
     text-align: center;
-    color: crimson;
+    color: white;
 }
 
 h2{
     font-style: italic;
     text-align: center;
+    color: cornsilk;
 }
